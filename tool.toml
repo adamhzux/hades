@@ -1,0 +1,9 @@
+name = "hades"
+version = "1.0.0"
+description = "CLI for Roblox projects"
+
+[[targets]]
+os = "windows"
+arch = "x86_64"
+url = "https://github.com/yourname/hades-cli/releases/download/v1.0.0/hades.exe"
+bin = "hades.exe"
